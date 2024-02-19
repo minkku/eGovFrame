@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/minkyu/Desktop/framework/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1346189083.index
+3158238317.index
+2215089644.index
+485586625.index
+1377192393.index
