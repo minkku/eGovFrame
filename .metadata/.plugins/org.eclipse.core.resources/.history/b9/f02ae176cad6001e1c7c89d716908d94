@@ -1,0 +1,11 @@
+package controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class MainController {
+	@GetMapping("/main.do")
+	public String mainPage() {
+		return "main";
+	}
+}
